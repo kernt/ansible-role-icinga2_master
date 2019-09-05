@@ -92,6 +92,11 @@ create a `TwiML <https://www.twilio.com/docs/voice/twiml>`_ application.
   # https://www.twilio.com/docs/voice/make-calls
   #icinga2_master_twilio_phone_application_sid: 'application_sid'
 
+Sources
+========
+
+https://techgoat.net/index.php?id=115
+
 
 Dependencies
 =============
